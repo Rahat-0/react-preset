@@ -15,6 +15,7 @@ function App() {
         <h3>react-router-dom</h3>
         <h3>frontAwesome</h3>
         <h3>tailwind css</h3>
+        <h3>redux</h3>
         <h3>react-redux</h3>
       </div>
     </div>
