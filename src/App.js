@@ -13,7 +13,10 @@ function App() {
       <div className="text-red-700">
         <h3>axios</h3>
         <h3>react-router-dom</h3>
-        <h3>frontAwesome</h3>
+        <h3>react-toastify</h3>
+        <h3>react-slick</h3>
+        <h3>slick-carousel</h3>
+        <h3>react-spring</h3>
         <h3>tailwind css</h3>
         <h3>redux</h3>
         <h3>react-redux</h3>
